@@ -30,6 +30,3 @@ mv - Move a note to other catalog (in notes catalog)
 rmnotes - Delete notes catalog  
 rmtrash - Delete notes-trash catalog  
 
-# Login
-
-If you want to have a login system when you run notes.sh, download the notes.sh file from withlogin branch.
