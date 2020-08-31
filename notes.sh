@@ -82,13 +82,17 @@ then
 		 	grep $4
 		 fi
 fi
-if [[ $1 == "lsinit" ]]
-then
-		if [[ $2 == "" ]]
-		then
-			echo "Catalogs:"
-			files3=notes/*
-			
+
+#This is beta function
+#if [[ $1 == "lsinit" ]]
+#then
+#		if [[ $2 == "" ]]
+#		then
+#			echo "Catalogs:"
+#			files3=notes/*
+#		fi
+#fi
+#-----------------------------------------
 if [[ $1 == "edit" ]]
 then
 	if [[ $2 == "" ]]
