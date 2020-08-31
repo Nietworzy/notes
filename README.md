@@ -13,7 +13,7 @@ This program was created by Nietworzy.
 # Download
 
 Download: github.com/Nietworzy/notes/notes.sh  
-Warning! If you want to have a command for the notes.sh file, download another file "notes-cmd-add.sh".  
+Warning! If you want to have a command for the notes.sh file, download another file "notes-cmd-add.sh" and run it.  
 Warning! This program was written in one bash script. If you are on the Windows operating system, this program will not start.
 
 # Arguments
